@@ -1,6 +1,7 @@
       *%METADATA                                                                          *
       * %TEXT SAMPLE --- DO                                                               *
       *%EMETADATA                                                                         *
+     D NEWFIELD        S              2P 0 INZ(1) 
      D ARR2            S              3P 0 DIM(5) CTDATA PERRCD(1)
      D N               S              2P 0 INZ(1)
      D X               S              2P 0 INZ(1)
