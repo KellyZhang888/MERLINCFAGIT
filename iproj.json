@@ -4,7 +4,7 @@
     "includePath": [
         "MCFAREFLIB/QRPGLESRC"
     ],
-    "repository": "git@waldevaldnail04.dev.rocketsoftware.com:jwei/mcfaapp.git",
+    "repository": "git@github.com:KellyZhang888/MERLINCFAGIT.git",
     "objlib": "&verlibmcfaapp",
     "curlib": "*CRTDFT",
     "extensions": {
