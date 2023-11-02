@@ -1,20 +1,20 @@
 {
-    "description": "Demo APP for MERLINCFA",
-    "version": "0.0.1",
-    "includePath": [
-        "MCFAREFLIB/QRPGLESRC"
-    ],
-    "repository": "git@waldevaldnail04.dev.rocketsoftware.com:jwei/mcfaapp.git",
-    "objlib": "&verlibmcfaapp",
-    "curlib": "*CRTDFT",
-    "extensions": {
-        "arcad": {
-            "code": "MCFAAPP",
-            "libraryPrefix": "CFA",
-            "iasp": "*SYSBAS",
-            "validated": true
-        }
-    },
-    "buildCommand": "elias compile {branch}",
-    "compileCommand": "elias compile {branch} -f {filename}"
+  "description": "Demo APP for MERLINCFA",
+  "version": "0.0.1",
+  "includePath": [
+    "MCFAREFLIB/QRPGLESRC"
+  ],
+  "repository": "git@github.com:KellyZhang888/MERLINCFAGIT.git",
+  "objlib": "&verlibmcfaapp",
+  "curlib": "*CRTDFT",
+  "extensions": {
+    "arcad": {
+      "code": "MCFAAPP",
+      "libraryPrefix": "CFA",
+      "iasp": "*SYSBAS",
+      "validated": true
+    }
+  },
+  "buildCommand": "elias compile {branch}",
+  "compileCommand": "elias compile {branch} -f {files}"
 }
