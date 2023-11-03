@@ -1,5 +1,5 @@
 CREATE OR REPLACE TABLE TESTSQL
-      (DEPTNO    CHAR(5)           NOT NULL,
+      (DEPTNO    CHAR(6)           NOT NULL,
        DEPTNAME  VARCHAR(36)       NOT NULL,
        MGRNO     CHAR(6)                   ,
        ADMRDEPT  CHAR(3)           NOT NULL, 
