@@ -3,5 +3,5 @@ CREATE OR REPLACE TABLE TESTSQL
        DEPTNAME  VARCHAR(36)       NOT NULL,
        MGRNO     CHAR(6)                   ,
        ADMRDEPT  CHAR(3)           NOT NULL, 
-       LOCATION  CHAR(16),
+       LOCATION  CHAR(20),
        PRIMARY KEY (DEPTNO));
